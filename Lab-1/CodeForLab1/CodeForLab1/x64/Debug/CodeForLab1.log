@@ -1,6 +1,0 @@
-﻿  CodeForLab1.cpp
-C:\Users\User\Documents\GitHub\Programming (C++)\Lab-1\CodeForLab1\CodeForLab1\CodeForLab1.cpp(16,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\User\Documents\GitHub\Programming (C++)\Lab-1\CodeForLab1\CodeForLab1\CodeForLab1.cpp(17,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\User\Documents\GitHub\Programming (C++)\Lab-1\CodeForLab1\CodeForLab1\CodeForLab1.cpp(19,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\User\Documents\GitHub\Programming (C++)\Lab-1\CodeForLab1\CodeForLab1\CodeForLab1.cpp(20,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  CodeForLab1.vcxproj -> C:\Users\User\Documents\GitHub\Programming (C++)\Lab-1\CodeForLab1\x64\Debug\CodeForLab1.exe
