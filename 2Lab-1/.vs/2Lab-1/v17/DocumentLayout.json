@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\2Lab-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B264E56-9DDC-4E5E-9C1A-F26E83B47947}|2Lab-\\2Lab-.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\2Lab-1\\2Lab-\\2Lab-.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B264E56-9DDC-4E5E-9C1A-F26E83B47947}|2Lab-\\2Lab-.vcxproj|solutionrelative:2Lab-\\2Lab-.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2Lab-.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\2Lab-1\\2Lab-\\2Lab-.cpp",
+              "RelativeDocumentMoniker": "2Lab-\\2Lab-.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\2Lab-1\\2Lab-\\2Lab-.cpp",
+              "RelativeToolTip": "2Lab-\\2Lab-.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-22T18:38:11.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

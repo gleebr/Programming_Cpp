@@ -1,0 +1,4 @@
+﻿  2Lab-.cpp
+C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-1\2Lab-\2Lab-.cpp(91,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-1\2Lab-\2Lab-.cpp(111,27): warning C4305: аргумент: усечение из "double" в "float"
+  2Lab-.vcxproj -> C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-1\x64\Debug\2Lab-.exe

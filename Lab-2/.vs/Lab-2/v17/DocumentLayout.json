@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-2\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\Lab-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48953F83-E326-4074-8411-11BB3C796A6B}|Lab-2\\Lab-2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-2\\Lab-2\\Lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{48953F83-E326-4074-8411-11BB3C796A6B}|Lab-2\\Lab-2.vcxproj|C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\Lab-2\\Lab-2\\Lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48953F83-E326-4074-8411-11BB3C796A6B}|Lab-2\\Lab-2.vcxproj|solutionrelative:Lab-2\\Lab-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab-2.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-2\\Lab-2\\Lab-2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\Lab-2\\Lab-2\\Lab-2.cpp",
               "RelativeDocumentMoniker": "Lab-2\\Lab-2.cpp",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming (C\u002B\u002B)\\Lab-2\\Lab-2\\Lab-2.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programming_Cpp\\Lab-2\\Lab-2\\Lab-2.cpp",
               "RelativeToolTip": "Lab-2\\Lab-2.cpp",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-29T12:42:51.789Z",
               "EditorCaption": ""

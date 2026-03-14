@@ -1,0 +1,5 @@
+﻿  Product.cpp
+C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-2\2Lab-2\Product.cpp(38,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-2\2Lab-2\Product.cpp(48,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-2\2Lab-2\Product.cpp(57,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  2Lab-2.vcxproj -> C:\Users\User\Documents\GitHub\Programming_Cpp\2Lab-2\x64\Debug\2Lab-2.exe
