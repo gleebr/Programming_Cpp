@@ -1,3 +1,3 @@
 ﻿  Lab-2.cpp
-C:\Users\User\Documents\GitHub\Programming (C++)\Lab-2\Lab-2\Lab-2.cpp(28,37): warning C4805: |: небезопасное смешение типа "int" и типа "bool" в операции
-  Lab-2.vcxproj -> C:\Users\User\Documents\GitHub\Programming (C++)\Lab-2\x64\Debug\Lab-2.exe
+C:\Users\User\Documents\GitHub\Programming_Cpp\Lab-2\Lab-2\Lab-2.cpp(28,37): warning C4805: |: небезопасное смешение типа "int" и типа "bool" в операции
+  Lab-2.vcxproj -> C:\Users\User\Documents\GitHub\Programming_Cpp\Lab-2\x64\Debug\Lab-2.exe

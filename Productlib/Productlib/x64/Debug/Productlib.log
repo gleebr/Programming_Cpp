@@ -1,0 +1,11 @@
+﻿  Product.cpp
+C:\Users\User\Documents\GitHub\Programming_Cpp\Productlib\Productlib\Product.cpp(149,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Product.cpp")
+  
+C:\Users\User\Documents\GitHub\Programming_Cpp\Productlib\Productlib\Product.cpp(161,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Product.cpp")
+  
+C:\Users\User\Documents\GitHub\Programming_Cpp\Productlib\Productlib\Product.cpp(173,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Product.cpp")
+  
+  Productlib.vcxproj -> C:\Users\User\Documents\GitHub\Programming_Cpp\Productlib\x64\Debug\Productlib.lib
